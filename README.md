@@ -238,6 +238,6 @@ Proyek ini dibuat untuk tujuan edukasi dan portofolio pengembangan aplikasi Comp
 
 ### ⭐ Jangan lupa berikan Star jika proyek ini bermanfaat!
 
-Created by [username-anda](https://github.com/username-anda)
+Created by [Nova11-F](https://github.com/Nova11-F)
 
 </div>
